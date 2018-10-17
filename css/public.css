@@ -55,14 +55,15 @@ p{
   height: 100%;
 }
 
-.main-menu__line:hover,
-.main-menu-line-active{
+.main-menu__line:hover{
   background-color: #D443CA;
+  padding: 10px 25px;
 }
 
 .main-menu-line-active{
-  width: 280px;
-  padding: 10px 50px;
+  background-color: #D443CA;
+  width: 300px;
+  padding: 10px 55px 10px 25px;
 }
 
 /* content */
