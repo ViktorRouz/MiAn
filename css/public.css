@@ -85,6 +85,7 @@ p{
   height: 80px;
   background-color: #521A4F;
   text-align: center;
+  box-shadow: 0 0 10px #521A4F;
 }
 
 .footer__text{
